@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/Tailspin257/SpaceGame-Web/_apis/build/status/richardneg257.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin257/SpaceGame-Web/_build/latest?definitionId=6&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
